@@ -1,0 +1,17 @@
+[
+  {"id":0, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":1, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":2, "name":"Die Linke", "longname":"Die Linke"},
+  {"id":3, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":4, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":5, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":6, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":7, "name":"dieBasis", "longname":"Basisdemokratische Partei Deutschland"},
+  {"id":8, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH KLIMA TIERSCHUTZ"},
+  {"id":9, "name":"Gartenpartei", "longname":"Gartenpartei"},
+  {"id":10, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":11, "name":"TIERSCHUTZALLIANZ", "longname":"Allianz für Menschenrechte, Tier- und Naturschutz"},
+  {"id":12, "name":"BSW", "longname":"Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit"},
+  {"id":13, "name":"PdF", "longname":"Partei des Fortschritts"},
+  {"id":14, "name":"Volt", "longname":"Volt Deutschland"}
+]
