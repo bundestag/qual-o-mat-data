@@ -72,5 +72,7 @@
   {"id": 70, "name":"Bundestagswahl", "date":"2025-02-23", "path":"data/2025/deutschland"},
   {"id": 71, "name":"Landtagswahl Baden-Württemberg", "date":"2026-03-08", "path":"data/2026/badenwuerttemberg"},
   {"id": 72, "name":"Landtagswahl Rheinland-Pfalz", "date":"2026-03-22", "path":"data/2026/rheinlandpfalz"},
-  {"id": 73, "name":"Landtagswahl Sachsen-Anhalt", "date":"2026-09-06", "path":"data/2026/sachsenanhalt"}
+  {"id": 73, "name":"Landtagswahl Sachsen-Anhalt", "date":"2026-09-06", "path":"data/2026/sachsenanhalt"},
+  {"id": 74, "name":"Abgeordnetenhauswahl Berlin", "date":"2026-09-20", "path":"data/2026/berlin"},
+  {"id": 75, "name":"Landtagswahl Mecklenburg-Vorpommern", "date":"2026-09-20", "path":"data/2026/mecklenburgvorpommern"}
 ]

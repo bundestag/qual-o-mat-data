@@ -1,0 +1,21 @@
+[
+  {"id":0, "name":"SPD", "longname":"Sozialdemokratische Partei Deutschlands"},
+  {"id":1, "name":"AfD", "longname":"Alternative für Deutschland"},
+  {"id":2, "name":"CDU", "longname":"Christlich Demokratische Union Deutschlands"},
+  {"id":3, "name":"Die Linke", "longname":"Die Linke"},
+  {"id":4, "name":"GRÜNE", "longname":"BÜNDNIS 90/DIE GRÜNEN"},
+  {"id":5, "name":"FDP", "longname":"Freie Demokratische Partei"},
+  {"id":6, "name":"Tierschutzpartei", "longname":"PARTEI MENSCH KLIMA TIERSCHUTZ"},
+  {"id":7, "name":"FREIE WÄHLER", "longname":"FREIE WÄHLER"},
+  {"id":8, "name":"Die PARTEI", "longname":"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative"},
+  {"id":9, "name":"PIRATEN", "longname":"Piratenpartei Deutschland"},
+  {"id":10, "name":"ÖDP", "longname":"Ökologisch-Demokratische Partei "},
+  {"id":11, "name":"Bündnis C", "longname":"Bündnis C - Christen für Deutschland"},
+  {"id":12, "name":"BSW", "longname":"Bündnis Sahra Wagenknecht – Vernunft und Gerechtigkeit"},
+  {"id":13, "name":"Handwerker Partei Deutschland", "longname":"Handwerker Partei Deutschland"},
+  {"id":14, "name":"KPD", "longname":"Kommunistische Partei Deutschlands"},
+  {"id":15, "name":"PdF", "longname":"Partei des Fortschritts"},
+  {"id":16, "name":"Team Freiheit", "longname":"Team Freiheit"},
+  {"id":17, "name":"Volt", "longname":"Volt Deutschland"},
+  {"id":18, "name":"WLD", "longname":"WIR LEBEN DEMOKRATIE"}
+]
